@@ -1,0 +1,30 @@
+{
+	"hat":"aniversário de são paulo",
+	"title":"Quais lugares você mais curte em São Paulo? Conte pra gente!",
+	"text":"Quais lugares você mais curte em São Paulo? Conte pra gente!...",
+	"author":"Da Redação, com Estadão Conteúdo",
+	"img":"https://imagem.band.com.br/novahome/a672ef79-c432-4478-833d-a9783d5518c6.jpg",
+	"link":"https://radiobandeirantes.band.uol.com.br/noticias/5c2e2f6a20928113e08e6eef/quais-lugares-voce-mais-curte-em-sao-pauloe",
+	"active":true
+}
+
+##################################
+{
+	"hat":"são paulo",
+	"title":"A RB faz um raio-x para avaliar a condição das calçadas",
+	"text":"A RB faz um raio-x para avaliar a condição das calçadas",
+	"author":"Da Redação, com Estadão Conteúdo",
+	"img":"https://imagem.band.com.br/novahome/e95370e4-aaaa-43b1-a257-c1e350f4c87b.jpg",
+	"link":"https://radiobandeirantes.band.uol.com.br/noticias/5c2e2f6a20928113e08e6eef",
+	"active":true
+}
+##################################
+{
+	"hat":"gesner oliveira comenta",
+	"title":"Últimos números da indústria e as perspectivas para o setor",
+	"text":"Últimos números da indústria e as perspectivas para o setor",
+	"author":"Da Redação, com Estadão Conteúdo",
+	"img":"https://imagem.band.com.br/novahome/d10f92a6-8370-4ec7-8efa-751ee9817c6f.jpg",
+	"link":"https://radiobandeirantes.band.uol.com.br/colunistas/5c35e7c9fb14ac4aad536148/5a455471276f9c03bcc3a8ad",
+	"active":true
+}
