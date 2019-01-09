@@ -1,0 +1,23 @@
+{
+  "name": "ts-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc -w",
+    "start": "nodemon ./dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "3.13.1",
+    "restify": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "@types/restify": "^7.2.7",
+    "nodemon": "^1.18.9"
+  }
+}
