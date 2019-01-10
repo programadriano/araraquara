@@ -1,5 +1,5 @@
 {
-  "name": "ts-app",
+  "name": "apiApp",
   "integrations": {},
-  "type": "angular"
+  "type": "ionic-angular"
 }
