@@ -1,11 +1,6 @@
 class News {
-    hat: { type: String };
+    _id: { type: String };
     title: { type: String };
-    text: { type: String };
-    author: { type: String };
-    img: { type: String };
-    publishDate: { type: Date };
+    thumb: { type: String };
     link: { type: String };
-    active: { type: Boolean }
 };
-

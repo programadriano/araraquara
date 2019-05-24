@@ -1,11 +1,16 @@
 {
     "compilerOptions": {
-        "target": "es6",
+        "target": "es2016",
+        "module": "commonjs",
         "outDir": "dist/js",
-        "noEmitOnError": true, 
-        "noImplicitAny": true        
+        "incremental": true,
+        "tsBuildInfoFile": "./buildcache/front-end"
     },
     "include": [
         "ts/**/*"
-    ]
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "noEmitOnError": true
 }

@@ -9,7 +9,7 @@ class NewsController {
     }
 
     getNews() {
-        fetch(`http://localhost:3050/api/v1/news`)
+        fetch(`https://smithsonianapiexternalsite.azurewebsites.net/api/v1/destaques`)
             .then(res => res.json())
             .then(res => {
                 let news: News[] = res.result;
